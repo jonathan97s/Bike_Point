@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemActualizar"
+        android:title="Actualizar" />
+    <item
+        android:id="@+id/itemEstacionesAbiertas"
+        android:title="Estaciones abiertas" />
+    <item
+        android:id="@+id/itemEstacionesFavoritas"
+        android:title="Estaciones Favoritas" />
+    <item
+        android:id="@+id/itemEstacionesCerradas"
+        android:title="Estaciones cerradas" />
+    <item
+        android:id="@+id/itemFiltrarPorDistancia"
+        android:title="Filtrar por distancia" />
+</menu>
